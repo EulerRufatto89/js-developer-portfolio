@@ -42,37 +42,36 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
+    "Inglês (básico)",
     "Espanhol (intermediário)",
-    "Italiano (iniciante)"
-  ],
+    ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Curso Developer Java Script",
+      "url": "https://web.dio.me/track/formacao-javascript-developer",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Curso Developer CSS",
+      "url": "https://web.dio.me/track/formacao-css-web-developer",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Arte Finalista Corel Draw",
+      "period": "2014 - até o momento / Atônomo",
+      "description": "É um prazer trabalhar ao lado de tantos clientes excepcionais e construir tantas inovações de mercado."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Dev - Citb",
+      "period": "New",
+      "description": "Começo de um novo projeto promissor"
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "CEO / LR Software",
+      "period": "2018 - 2024",
+      "description": "Coisas incríveis no mundo dos negócios nunca são feitas por uma única pessoa, e sim por uma equipe - Steve Jobs"
     }
   ]
 }
